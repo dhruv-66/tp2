@@ -1,3 +1,5 @@
+
 just for my learning git
 hello will learn github
+just writing to check whether the stash command is workign in git properly or not
 
